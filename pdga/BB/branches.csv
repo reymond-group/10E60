@@ -1,0 +1,4 @@
+ID,SMILES,Description
+b000,N[C@@H](CCN8)C(=O),Branching Dab
+b001,N[C@@H](CCCN8)C(=O),Branching Orn
+b002,N[C@@H](CCCCN8)C(=O),Branching Lys
